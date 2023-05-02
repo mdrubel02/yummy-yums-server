@@ -7,7 +7,7 @@ app.use(cors());
 
 
 const chefs = require('./data/chefs.json')
-
+console.log(chefs);
 
 app.get('/', (req, res) => {
     res.send('chef api running');
