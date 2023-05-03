@@ -1,0 +1,86 @@
+[
+    {   "id": 1,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "Maria Rodriguez",
+        "bio": "Maria is a classically trained chef who has been working in restaurants for over a decade. She is passionate about creating dishes that are both delicious and beautiful.",
+        "likes": ["French cuisine", "farm-to-table cooking", "making her own pasta"],
+        "num_recipes": 3,
+        "years_experience": 12,
+        "recipes": [
+          {
+            "name": "Spaghetti Carbonara",
+            "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
+            "method": "1. Cook spaghetti in salted boiling water.\n2. Fry pancetta in a skillet.\n3. Beat eggs and parmesan cheese in a bowl.\n4. Add spaghetti to skillet, then add egg mixture.\n5. Stir until eggs are cooked and spaghetti is coated in sauce.\n6. Add black pepper to taste.",
+            "rating": 4.5,
+            "favorite": false
+          },
+          {
+            "name": "Coq au Vin",
+            "ingredients": ["chicken thighs", "red wine", "bacon", "mushrooms", "pearl onions"],
+            "method": "1. Brown chicken thighs in a Dutch oven.\n2. Remove chicken and fry bacon in the same pot.\n3. Add mushrooms and pearl onions to pot.\n4. Add red wine and chicken back to pot.\n5. Simmer for 1-2 hours until chicken is tender and sauce is thick.\n6. Serve over mashed potatoes.",
+            "rating": 4.8,
+            "favorite": false
+          },
+          {
+            "name": "Crème Brûlée",
+            "ingredients": ["heavy cream", "egg yolks", "sugar", "vanilla extract", "brown sugar"],
+            "method": "1. Heat cream and vanilla extract in a saucepan.\n2. Beat egg yolks and sugar in a bowl.\n3. Slowly add cream mixture to egg mixture, whisking constantly.\n4. Pour mixture into ramekins and bake in a water bath.\n5. Chill in the fridge for at least 2 hours.\n6. Sprinkle brown sugar on top and torch until caramelized.",
+            "rating": 4.9,
+            "favorite": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chefPicture": "https://example.com/maria-garcia.jpg",
+        "chefName": "Maria Garcia",
+        "bio": "Maria Garcia is a renowned chef with over 15 years of experience in the culinary world. She is a master at blending traditional and modern cooking techniques to create unique and flavorful dishes.",
+        "likes": ["Mexican cuisine", "spicy food", "seafood"],
+        "numRecipes": 10,
+        "yearsExperience": 15,
+        "recipes": [
+           {
+              "name": "Shrimp Ceviche",
+              "ingredients": ["shrimp", "lime juice", "red onion", "tomato", "cilantro", "avocado"],
+              "cookingMethod": "mix all ingredients together and refrigerate for 1 hour",
+              "rating": 4.8,
+              "favorite": true
+           },
+           {
+              "name": "Grilled Fish Tacos",
+              "ingredients": ["fish", "corn tortillas", "slaw mix", "sour cream", "lime", "hot sauce"],
+              "cookingMethod": "grill the fish and warm the tortillas. Assemble the tacos with the slaw mix, sour cream, lime, and hot sauce",
+              "rating": 4.6,
+              "favorite": false
+           },
+           {
+              "name": "Mexican Street Corn",
+              "ingredients": ["corn", "mayonnaise", "cotija cheese", "chili powder", "lime juice"],
+              "cookingMethod": "grill the corn, then spread mayonnaise on it and sprinkle with cotija cheese, chili powder, and lime juice",
+              "rating": 4.7,
+              "favorite": true
+           },
+           {
+              "name": "Chiles Rellenos",
+              "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomato sauce", "cheese"],
+              "cookingMethod": "roast the peppers, then stuff them with the ground beef mixture and cheese. Bake in tomato sauce",
+              "rating": 4.5,
+              "favorite": false
+           },
+           {
+              "name": "Mole Sauce",
+              "ingredients": ["dried chiles", "spices", "nuts", "raisins", "chocolate"],
+              "cookingMethod": "blend all ingredients together to create the mole sauce",
+              "rating": 4.9,
+              "favorite": true
+           },
+           {
+              "name": "Tres Leches Cake",
+              "ingredients": ["cake mix", "evaporated milk", "condensed milk", "heavy cream", "strawberries"],
+              "cookingMethod": "bake the cake, then soak in a mixture of the milks. Top with whipped cream and sliced strawberries",
+              "rating": 4.8,
+              "favorite": false
+           }
+        ]
+     }
+]
