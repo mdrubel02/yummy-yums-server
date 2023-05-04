@@ -1,0 +1,15 @@
+ [
+    {   "id": "01",
+        "image": "https://i.ibb.co/5K4QVgq/jennifer-griffin-os-Nl3-g9-Vo-U-unsplash-1.jpg",
+        "categoryName": "Shrimp scamp"
+    },
+    {   "id": "02",
+        "image": "https://i.ibb.co/xmYVdc4/farhad-ibrahimzade-is-HUj3-N0194-unsplash.jpg",
+        "categoryName": "Peking duck"
+    },
+    {
+        "id": "03",
+        "image": "https://i.ibb.co/ZKRyjPR/dlkr-w928v-KZWIek-unsplash.jpg",
+        "categoryName": "Tandoori chicken"
+    }
+]

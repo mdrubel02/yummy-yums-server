@@ -19,7 +19,7 @@ app.get('/chefs', (req,res)=>{
     res.send(chefs)
 })
 app.get('/categories',(req,res)=>{
-  res.send(categories)
+
 })
 
 app.listen(port, () => {
