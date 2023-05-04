@@ -11,7 +11,6 @@ const categories = require('./data/categories.json')
 const singleChefs = require('./data/singleChef.json')
 
 
-
 app.get('/', (req, res) => {
     res.send('chef api running');
 });
@@ -23,9 +22,11 @@ app.get('/categories',(req,res)=>{
   res.send(categories)
 })
 app.get('/chefSingle/:id', (req, res) => {
-    const id = parseFloat(req.params.id);
+    const id = req.params.id;
+    console.log(id)
     const selectSingle = singleChefs.find( a => a.id === id)
-    res.send(selectSingle)
+    console.log(selectSingle);
+    // res.send(selectSingle)
     
 })
 

@@ -1,0 +1,273 @@
+[
+   {
+      "id": 1,
+      "chef_picture": "https://i.ibb.co/2FWvm3w/rsz-1chef-with-pan-copy-space.jpg",
+      "chef_name": "Alice Smith",
+      "years_of_experience": 10,
+      "num_of_recipes": 25,
+      "likes": 500,
+      "bio": "Maria is a classically trained chef who has been working in restaurants for over a decade. She is passionate about creating dishes that are both delicious and beautiful.",
+      "recipes": [
+         {
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+               "spaghetti",
+               "pancetta",
+               "eggs",
+               "parmesan cheese",
+               "black pepper"
+            ],
+            "method": "1. Cook spaghetti in salted boiling water.\n2. Fry pancetta in a skillet.\n3. Beat eggs and parmesan cheese in a bowl.\n4. Add spaghetti to skillet, then add egg mixture.\n5. Stir until eggs are cooked and spaghetti is coated in sauce.\n6. Add black pepper to taste.",
+            "rating": 4.5,
+            "favorite": false
+         },
+         {
+            "name": "Coq au Vin",
+            "ingredients": [
+               "chicken thighs",
+               "red wine",
+               "bacon",
+               "mushrooms",
+               "pearl onions"
+            ],
+            "method": "1. Brown chicken thighs in a Dutch oven.\n2. Remove chicken and fry bacon in the same pot.\n3. Add mushrooms and pearl onions to pot.\n4. Add red wine and chicken back to pot.\n5. Simmer for 1-2 hours until chicken is tender and sauce is thick.\n6. Serve over mashed potatoes.",
+            "rating": 4.8,
+            "favorite": false
+         },
+         {
+            "name": "Crème Brûlée",
+            "ingredients": [
+               "heavy cream",
+               "egg yolks",
+               "sugar",
+               "vanilla extract",
+               "brown sugar"
+            ],
+            "method": "1. Heat cream and vanilla extract in a saucepan.\n2. Beat egg yolks and sugar in a bowl.\n3. Slowly add cream mixture to egg mixture, whisking constantly.\n4. Pour mixture into ramekins and bake in a water bath.\n5. Chill in the fridge for at least 2 hours.\n6. Sprinkle brown sugar on top and torch until caramelized.",
+            "rating": 4.9,
+            "favorite": false
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "chef_picture": "https://i.ibb.co/BK4W7LS/rsz-crazy-chef-worried-expression.jpg",
+      "chef_name": "Bob Johnson",
+      "years_of_experience": 15,
+      "num_of_recipes": 35,
+      "likes": 750,
+      "bio": "Maria Garcia is a renowned chef with over 15 years of experience in the culinary world. She is a master at blending traditional and modern cooking techniques to create unique and flavorful dishes.",
+      "recipes": [
+         {
+            "name": "Shrimp Ceviche",
+            "ingredients": [
+               "shrimp",
+               "lime juice",
+               "red onion",
+               "tomato",
+               "cilantro",
+               "avocado"
+            ],
+            "cookingMethod": "mix all ingredients together and refrigerate for 1 hour",
+            "rating": 4.8,
+            "favorite": true
+         },
+         {
+            "name": "Grilled Fish Tacos",
+            "ingredients": [
+               "fish",
+               "corn tortillas",
+               "slaw mix",
+               "sour cream",
+               "lime",
+               "hot sauce"
+            ],
+            "cookingMethod": "grill the fish and warm the tortillas. Assemble the tacos with the slaw mix, sour cream, lime, and hot sauce",
+            "rating": 4.6,
+            "favorite": false
+         },
+         {
+            "name": "Mexican Street Corn",
+            "ingredients": [
+               "corn",
+               "mayonnaise",
+               "cotija cheese",
+               "chili powder",
+               "lime juice"
+            ],
+            "cookingMethod": "grill the corn, then spread mayonnaise on it and sprinkle with cotija cheese, chili powder, and lime juice",
+            "rating": 4.7,
+            "favorite": true
+         },
+         {
+            "name": "Chiles Rellenos",
+            "ingredients": [
+               "poblano peppers",
+               "ground beef",
+               "onion",
+               "garlic",
+               "tomato sauce",
+               "cheese"
+            ],
+            "cookingMethod": "roast the peppers, then stuff them with the ground beef mixture and cheese. Bake in tomato sauce",
+            "rating": 4.5,
+            "favorite": false
+         },
+         {
+            "name": "Mole Sauce",
+            "ingredients": [
+               "dried chiles",
+               "spices",
+               "nuts",
+               "raisins",
+               "chocolate"
+            ],
+            "cookingMethod": "blend all ingredients together to create the mole sauce",
+            "rating": 4.9,
+            "favorite": true
+         },
+         {
+            "name": "Tres Leches Cake",
+            "ingredients": [
+               "cake mix",
+               "evaporated milk",
+               "condensed milk",
+               "heavy cream",
+               "strawberries"
+            ],
+            "cookingMethod": "bake the cake, then soak in a mixture of the milks. Top with whipped cream and sliced strawberries",
+            "rating": 4.8,
+            "favorite": false
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "chef_picture": "https://i.ibb.co/HDjHvhS/My-project.jpg",
+      "chef_name": "Catherine Lee",
+      "years_of_experience": 8,
+      "num_of_recipes": 20,
+      "likes": 350,
+      "bio": "John Smith is a classically trained chef who specializes in French cuisine. He is known for his attention to detail and precision in the kitchen.",
+      "recipes": [
+         {
+            "name": "Beef Bourguignon",
+            "ingredients": [
+               "beef",
+               "bacon",
+               "carrots",
+               "onions",
+               "red wine"
+            ],
+            "cookingMethod": "sear the beef and bacon, sauté the vegetables, deglaze with red wine and beef stock, and simmer for several hours",
+            "rating": 4.9,
+            "favorite": true
+         },
+         {
+            "name": "Coq au Vin",
+            "ingredients": [
+               "chicken",
+               "mushrooms",
+               "pearl onions",
+               "red wine",
+               "thyme"
+            ],
+            "cookingMethod": "brown the chicken, sauté the vegetables, deglaze with red wine, and simmer with thyme and chicken stock",
+            "rating": 4.8,
+            "favorite": false
+         },
+         {
+            "name": "Lobster Bisque",
+            "ingredients": [
+               "lobster",
+               "heavy cream",
+               "tomato paste",
+               "sherry",
+               "thyme"
+            ],
+            "cookingMethod": "sauté lobster shells and vegetables, add tomato paste, sherry, and stock, simmer and strain, add heavy cream and thyme",
+            "rating": 4.7,
+            "favorite": true
+         },
+         {
+            "name": "Ratatouille",
+            "ingredients": [
+               "eggplant",
+               "zucchini",
+               "tomatoes",
+               "bell peppers",
+               "garlic"
+            ],
+            "cookingMethod": "sauté vegetables, layer in a casserole dish, bake until tender",
+            "rating": 4.6,
+            "favorite": false
+         }
+      ]
+   },
+   {
+      "chefPicture": "https://example.com/sophia-brown.jpg",
+      "chefName": "Sophia Brown",
+      "description": "Sophia Brown is a vegan chef who specializes in healthy, plant-based meals. She is known for her innovative recipes and use of fresh, organic ingredients.",
+      "likes": [
+         "vegan cuisine",
+         "plant-based meals",
+         "healthy cooking"
+      ],
+      "numRecipes": 25,
+      "yearsExperience": 10,
+      "recipes": [
+         {
+            "name": "Vegan Tacos",
+            "ingredients": [
+               "corn tortillas",
+               "black beans",
+               "avocado",
+               "tomatoes",
+               "salsa"
+            ],
+            "cookingMethod": "warm the tortillas, cook the beans, and assemble with avocado, tomatoes, and salsa",
+            "rating": 4.8,
+            "favorite": true
+         },
+         {
+            "name": "Quinoa Salad",
+            "ingredients": [
+               "quinoa",
+               "spinach",
+               "avocado",
+               "tomatoes",
+               "lemon juice"
+            ],
+            "cookingMethod": "cook quinoa, mix with spinach, avocado, tomatoes, and lemon juice",
+            "rating": 4.7,
+            "favorite": false
+         },
+         {
+            "name": "Vegan Chili",
+            "ingredients": [
+               "beans",
+               "tomatoes",
+               "onions",
+               "peppers",
+               "spices"
+            ],
+            "cookingMethod": "sauté onions and peppers, add beans, tomatoes, and spices, simmer until flavors meld",
+            "rating": 4.6,
+            "favorite": true
+         },
+         {
+            "name": "Cauliflower Fried Rice",
+            "ingredients": [
+               "cauliflower rice",
+               "carrots",
+               "peas",
+               "onions",
+               "soy sauce"
+            ],
+            "cookingMethod": "sauté vegetables, add cauliflower rice and soy sauce, cook until tender",
+            "rating": 4.5,
+            "favorite": false
+         }
+      ]
+   }
+]

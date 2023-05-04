@@ -24,7 +24,9 @@ app.get('/categories',(req,res)=>{
 })
 app.get('/chefSingle/:id', (req, res) => {
     const id = parseFloat(req.params.id);
+    console.log(id)
     const selectSingle = singleChefs.find( a => a.id === id)
+    console.log(selectSingle);
     res.send(selectSingle)
     
 })
